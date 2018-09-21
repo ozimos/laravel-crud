@@ -1,0 +1,40 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.product-list{
+  .list-group{
+    max-height: 70vh;
+    text-overflow: clip;
+    overflow: scroll;
+    .flexible{
+      display: flex;
+      min-height: 2rem;
+      .list-group-item{
+        padding: 0.3rem 1.25rem
+      }      
+      button{
+        cursor: pointer;
+        &:focus{
+          outline: none;
+        }
+        &.close{
+          bottom: 0;
+          line-height: 0.5;
+        }
+      }
+     
+    }
+  }
+  
+}

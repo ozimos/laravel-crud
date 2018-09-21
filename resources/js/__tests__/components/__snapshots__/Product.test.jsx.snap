@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Component renders correctly 1`] = `
+<div>
+  <h2>
+     
+    est
+     
+  </h2>
+  <h4>
+     
+    Dolor est eligendi sequi sapiente dicta eum.
+   Et libero consequuntur non laboriosam officia.
+    Inventore velit esse possimus a voluptas mollitia.
+     
+  </h4>
+  <h3>
+    Status : 
+    Available
+  </h3>
+  <h3>
+     Price : 
+    73
+     
+  </h3>
+</div>
+`;
+
+exports[`Product Component renders correctly 2`] = `
+<div>
+    Product Doesn't exist 
+</div>
+`;
+
+exports[`Product Component renders correctly 3`] = `
+<div>
+  <h2>
+     
+    est
+     
+  </h2>
+  <h4>
+     
+    Dolor est eligendi sequi sapiente dicta eum.
+   Et libero consequuntur non laboriosam officia.
+    Inventore velit esse possimus a voluptas mollitia.
+     
+  </h4>
+  <h3>
+    Status : 
+    Out of stock
+  </h3>
+  <h3>
+     Price : 
+    73
+     
+  </h3>
+</div>
+`;

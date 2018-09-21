@@ -1,0 +1,320 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductEditor Component renders correctly 1`] = `
+<div>
+  <h2>
+    Add New Product
+  </h2>
+  <div>
+    <form
+      id="form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="title"
+        >
+          Title
+        </label>
+        <input
+          aria-describedby="titleHelp"
+          className="form-control"
+          id="title"
+          name="title"
+          onChange={[MockFunction]}
+          placeholder="Enter product title"
+          required={true}
+          type="text"
+          value="estam"
+        />
+        <small
+          className="form-text text-muted"
+          id="titleHelp"
+        >
+          Enter a brief title for the product.
+        </small>
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="description"
+        >
+          Description
+        </label>
+        <textarea
+          className="form-control"
+          id="description"
+          name="description"
+          onChange={[MockFunction]}
+          placeholder="Description"
+          required={true}
+          value="Dolor est eligendi sequi sapiente dicta eum.
+   Et libero consequuntur laboriosam officia.
+    Inventore velit esse possimus a voluptas mollitia."
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="price"
+        >
+          Price
+        </label>
+        <input
+          aria-describedby="priceHelp"
+          className="form-control"
+          id="price"
+          name="price"
+          onChange={[MockFunction]}
+          placeholder="Enter product price"
+          required={true}
+          type="number"
+          value={73}
+        />
+      </div>
+      <div
+        className="form-group form-check"
+      >
+        <input
+          checked={true}
+          className="form-check-input"
+          id="availability"
+          name="availability"
+          onChange={[MockFunction]}
+          type="checkbox"
+        />
+        <label
+          className="form-check-label"
+          htmlFor="availability"
+        >
+          Availabile
+        </label>
+      </div>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        id="submit"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`ProductEditor Component renders correctly 2`] = `
+<div>
+  <h2>
+    Edit Product
+  </h2>
+  <div>
+    <form
+      id="form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="title"
+        >
+          Title
+        </label>
+        <input
+          aria-describedby="titleHelp"
+          className="form-control"
+          id="title"
+          name="title"
+          onChange={[MockFunction]}
+          placeholder="Enter product title"
+          required={true}
+          type="text"
+          value="est"
+        />
+        <small
+          className="form-text text-muted"
+          id="titleHelp"
+        >
+          Enter a brief title for the product.
+        </small>
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="description"
+        >
+          Description
+        </label>
+        <textarea
+          className="form-control"
+          id="description"
+          name="description"
+          onChange={[MockFunction]}
+          placeholder="Description"
+          required={true}
+          value="Dolor est eligendi sequi sapiente dicta eum.
+   Et libero consequuntur non laboriosam officia.
+    Inventore velit esse possimus a voluptas mollitia."
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="price"
+        >
+          Price
+        </label>
+        <input
+          aria-describedby="priceHelp"
+          className="form-control"
+          id="price"
+          name="price"
+          onChange={[MockFunction]}
+          placeholder="Enter product price"
+          required={true}
+          type="number"
+          value={73}
+        />
+      </div>
+      <div
+        className="form-group form-check"
+      >
+        <input
+          checked={true}
+          className="form-check-input"
+          id="availability"
+          name="availability"
+          onChange={[MockFunction]}
+          type="checkbox"
+        />
+        <label
+          className="form-check-label"
+          htmlFor="availability"
+        >
+          Availabile
+        </label>
+      </div>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        id="submit"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`ProductEditor Component renders correctly 3`] = `
+<div>
+  <h2>
+    Add New Product
+  </h2>
+  <div>
+    <form
+      id="form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="title"
+        >
+          Title
+        </label>
+        <input
+          aria-describedby="titleHelp"
+          className="form-control"
+          id="title"
+          name="title"
+          onChange={[MockFunction]}
+          placeholder="Enter product title"
+          required={true}
+          type="text"
+          value=""
+        />
+        <small
+          className="form-text text-muted"
+          id="titleHelp"
+        >
+          Enter a brief title for the product.
+        </small>
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="description"
+        >
+          Description
+        </label>
+        <textarea
+          className="form-control"
+          id="description"
+          name="description"
+          onChange={[MockFunction]}
+          placeholder="Description"
+          required={true}
+          value=""
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="price"
+        >
+          Price
+        </label>
+        <input
+          aria-describedby="priceHelp"
+          className="form-control"
+          id="price"
+          name="price"
+          onChange={[MockFunction]}
+          placeholder="Enter product price"
+          required={true}
+          type="number"
+          value=""
+        />
+      </div>
+      <div
+        className="form-group form-check"
+      >
+        <input
+          checked={false}
+          className="form-check-input"
+          id="availability"
+          name="availability"
+          onChange={[MockFunction]}
+          type="checkbox"
+        />
+        <label
+          className="form-check-label"
+          htmlFor="availability"
+        >
+          Availabile
+        </label>
+      </div>
+      <button
+        className="btn btn-primary"
+        disabled={true}
+        id="submit"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;

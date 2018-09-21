@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1537534157510" clover="3.2.0">
+  <project timestamp="1537534157510" name="All files">
+    <metrics statements="57" coveredstatements="51" conditionals="25" coveredconditionals="21" methods="30" coveredmethods="23" elements="112" coveredelements="95" complexity="0" loc="57" ncloc="57" packages="1" files="3" classes="3">
+      <file name="Main.jsx" path="/Users/ozimos/Documents/projects/Sites/market/resources/js/components/Main.jsx">
+        <metrics statements="40" coveredstatements="34" conditionals="7" coveredconditionals="4" methods="26" coveredmethods="19"/>
+        <line num="11" count="11" type="stmt"/>
+        <line num="12" count="11" type="stmt"/>
+        <line num="19" count="11" type="stmt"/>
+        <line num="20" count="11" type="stmt"/>
+        <line num="21" count="11" type="stmt"/>
+        <line num="22" count="11" type="stmt"/>
+        <line num="23" count="11" type="stmt"/>
+        <line num="24" count="11" type="stmt"/>
+        <line num="25" count="11" type="stmt"/>
+        <line num="29" count="11" type="stmt"/>
+        <line num="31" count="11" type="stmt"/>
+        <line num="32" count="11" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="53" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="1" falsecount="2"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="116" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="119" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="130" count="29" type="stmt"/>
+        <line num="131" count="57" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="164" count="29" type="stmt"/>
+      </file>
+      <file name="Product.jsx" path="/Users/ozimos/Documents/projects/Sites/market/resources/js/components/Product.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="ProductEditor.jsx" path="/Users/ozimos/Documents/projects/Sites/market/resources/js/components/ProductEditor.jsx">
+        <metrics statements="13" coveredstatements="13" conditionals="14" coveredconditionals="13" methods="3" coveredmethods="3"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="115" count="2" type="stmt"/>
+        <line num="121" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>

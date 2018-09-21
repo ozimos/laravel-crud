@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component renders correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-4 product-list"
+    >
+      <h3>
+         All Products 
+      </h3>
+      <div
+        className="list-group"
+      />
+    </div>
+    <div
+      className="col-8"
+    >
+      <Product
+        product={Object {}}
+      />
+      <hr />
+      <ProductEditor
+        canSubmit={false}
+        handleChecked={[Function]}
+        handleInput={[Function]}
+        isEdit={false}
+        onAdd={[Function]}
+        onEdit={[Function]}
+        product={Object {}}
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Main Component renders correctly 2`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-4 product-list"
+    >
+      <h3>
+         All Products 
+      </h3>
+      <div
+        className="list-group"
+      >
+        <div
+          className="flexible"
+          key="1"
+        >
+          <button
+            className="list-group-item list-group-item-action"
+            onClick={[Function]}
+            style={
+              Object {
+                "borderRight": "none",
+                "width": "80%",
+              }
+            }
+            type="button"
+          >
+            Pressing iron
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "green",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✏
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "red",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✖
+          </button>
+        </div>
+        <div
+          className="flexible"
+          key="2"
+        >
+          <button
+            className="list-group-item list-group-item-action"
+            onClick={[Function]}
+            style={
+              Object {
+                "borderRight": "none",
+                "width": "80%",
+              }
+            }
+            type="button"
+          >
+            enim
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "green",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✏
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "red",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✖
+          </button>
+        </div>
+        <div
+          className="flexible"
+          key="3"
+        >
+          <button
+            className="list-group-item list-group-item-action"
+            onClick={[Function]}
+            style={
+              Object {
+                "borderRight": "none",
+                "width": "80%",
+              }
+            }
+            type="button"
+          >
+            molestias
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "green",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✏
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "red",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✖
+          </button>
+        </div>
+        <div
+          className="flexible"
+          key="4"
+        >
+          <button
+            className="list-group-item list-group-item-action"
+            onClick={[Function]}
+            style={
+              Object {
+                "borderRight": "none",
+                "width": "80%",
+              }
+            }
+            type="button"
+          >
+            est
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "green",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✏
+          </button>
+          <button
+            className="list-group-item list-group-item-action close"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "red",
+                "width": "10%",
+              }
+            }
+            type="button"
+          >
+            ✖
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-8"
+    >
+      <Product
+        product={
+          Object {
+            "availability": 1,
+            "description": "Dolor est eligendi sequi sapiente dicta eum.
+   Et libero consequuntur non laboriosam officia.
+    Inventore velit esse possimus a voluptas mollitia.",
+            "id": 4,
+            "price": 73,
+            "title": "est",
+          }
+        }
+      />
+      <hr />
+      <ProductEditor
+        canSubmit={false}
+        handleChecked={[Function]}
+        handleInput={[Function]}
+        isEdit={false}
+        onAdd={[Function]}
+        onEdit={[Function]}
+        product={Object {}}
+      />
+    </div>
+  </div>
+</div>
+`;
