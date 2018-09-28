@@ -13925,6 +13925,7 @@ window.Popper = __webpack_require__(3).default;
  * code may be modified to fit the specific needs of your application.
  */
 
+/* eslint-disable */
 try {
   window.$ = window.jQuery = __webpack_require__(4);
 
